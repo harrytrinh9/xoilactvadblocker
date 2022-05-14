@@ -1,0 +1,14 @@
+{
+    "name": "Xoilac TV ad blocker",
+    "action": {},
+    "manifest_version": 3,
+    "version": "0.1",
+    "description": "Remove ad from xoilac.tv",
+    "permissions": [
+      "activeTab",
+      "scripting"
+    ],
+    "background": {
+      "service_worker": "background.js"
+    }
+  }
