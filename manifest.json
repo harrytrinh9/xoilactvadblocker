@@ -26,6 +26,7 @@
                 "https://xoilac2.net/*"
             ],
             "js": [
+                "libs/js/jquery-3.6.0.js",
                 "content.js"
             ],
             "run_at": "document_end"
