@@ -6,7 +6,7 @@ $(document).ready(function(){
     closeOpeningModal();
     removeTopAdsBanner();
     removeFootBanner();
-    skipVideoAds();
+    // skipVideoAds();
 })
 
 
