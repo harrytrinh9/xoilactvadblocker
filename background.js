@@ -1,0 +1,1 @@
+// Nhận tín hiệu từ popup và chuyển sang content
